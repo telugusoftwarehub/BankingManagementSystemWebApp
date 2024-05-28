@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "message": "Deposit successful",
+    "transaction": {
+      "transaction_id": "1234567890",
+      "type": "deposit",
+      "amount": 500.00,
+      "account_number": "1234567890",
+      "timestamp": "2024-05-14T12:00:00Z"
+    }
+  }
+  
+  

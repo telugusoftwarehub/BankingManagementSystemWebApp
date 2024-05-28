@@ -1,0 +1,2 @@
+import CustomerRelationshipManagement from "./customer_relationship_management_page";
+export default CustomerRelationshipManagement;

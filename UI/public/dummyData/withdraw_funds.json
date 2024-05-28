@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "message": "Withdrawal successful",
+  "transaction": {
+    "transaction_id": "0987654321",
+    "type": "withdrawal",
+    "amount": 200.00,
+    "account_number": "1234567890",
+    "timestamp": "2024-05-14T12:00:00Z"
+  }
+}

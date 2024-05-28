@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.bms_container {
+    width: 980px;
+    margin: 0 auto
+}
+
+.bms_section {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0;
+}
+.bms_section .reg_block {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 10px;
+    background-color: dodgerblue;
+    color: #ffffff;
+}

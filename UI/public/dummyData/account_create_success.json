@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "message": "Account created successfully",
+    "account": {
+      "account_number": "1234567890",
+      "account_type": "savings",
+      "balance": 1000.00,
+      "customer_id": 123456,
+      "created_at": "2024-05-14T12:00:00Z"
+    }
+  }
+  

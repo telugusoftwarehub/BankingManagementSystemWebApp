@@ -1,0 +1,6 @@
+{
+  "status": "success",
+  "statusCode":"100",
+  "message": "Authentication Failed",
+  "user": {}
+}

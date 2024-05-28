@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "statusCode":"101",
+  "message": "Authentication successful",
+  "user": {
+    "id": 123456,
+    "username": "sai",
+    "email": "admin@softwarethub.com",
+    "role": "customer",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMjM0NTY3ODkwLCJ1c2VybmFtZSI6ImpvaG5fZG9lIiwiZXhwIjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  }
+}
