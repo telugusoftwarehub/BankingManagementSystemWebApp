@@ -1,0 +1,14 @@
+.bms_section {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) ;
+    gap: 10px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reg_block {
+    border: 1px solid #ccc;
+    padding: 30px 20px!important;
+    text-align: center;
+    font-size: 18px;
+}
+
